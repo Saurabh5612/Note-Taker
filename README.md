@@ -4,4 +4,4 @@ challenge is to create an application called Note Taker that can be used to writ
 # Usage
 please visit this link :https://myapp252.herokuapp.com/
 # Questions
-please visit : https://saurabh5612.github.io/Note-Taker/
+please visit : https://github.com/Saurabh5612/Note-Taker
